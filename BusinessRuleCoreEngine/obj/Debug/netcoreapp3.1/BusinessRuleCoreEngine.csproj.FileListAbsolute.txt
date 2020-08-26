@@ -1,0 +1,11 @@
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\bin\Debug\netcoreapp3.1\BusinessRuleCoreEngine.exe
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\bin\Debug\netcoreapp3.1\BusinessRuleCoreEngine.deps.json
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\bin\Debug\netcoreapp3.1\BusinessRuleCoreEngine.runtimeconfig.json
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\bin\Debug\netcoreapp3.1\BusinessRuleCoreEngine.runtimeconfig.dev.json
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\bin\Debug\netcoreapp3.1\BusinessRuleCoreEngine.dll
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\bin\Debug\netcoreapp3.1\BusinessRuleCoreEngine.pdb
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\obj\Debug\netcoreapp3.1\BusinessRuleCoreEngine.AssemblyInfoInputs.cache
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\obj\Debug\netcoreapp3.1\BusinessRuleCoreEngine.AssemblyInfo.cs
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\obj\Debug\netcoreapp3.1\BusinessRuleCoreEngine.dll
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\obj\Debug\netcoreapp3.1\BusinessRuleCoreEngine.pdb
+E:\POC Projects\CodingTest\BusinessRuleCoreEngine\obj\Debug\netcoreapp3.1\BusinessRuleCoreEngine.genruntimeconfig.cache
